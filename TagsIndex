@@ -1,50 +1,3 @@
-Tags:
-- Algebra
-- Anagram
-- Arithmetic Expression
-- Binomial Coefficient
-- Champernowne
-- Combinatoric
-- Continued Fraction
-- Counting
-- Decryption
-- Digit Manipulation
-- Digit Sum
-- Diophantine Equation
-- Divisor Function
-- Dynamic Programming
-- Euler's Phi
-- Factorization
-- Farey Sequences
-- Fibonacci Number
-- Geometry
-- Graph Theory
-- Inclusion–Exclusion Principle
-- Large Number Operation
-- Lucas's Theorem
-- Lychrel Number
-- Modular Equation
-- Pandigital
-- Palindromic Number
-- Parametric Solution
-- Partition Function
-- Pascal's Triangle
-- Path Finding
-- Pell Equation
-- Prime Number
-- Probability
-- Polynomial
-- Power Modular
-- Pythagorean Triple
-- Repunit
-- Roman Numerals
-- Search
-- Sequence and Subsets
-- Stern-Brocot Tree
-- Sudoku
-- Torricelli Point (Fermat Point)
-
-
 1. Inclusion–Exclusion Principle
 2. Fibonacci Number
 3. Prime Number; Factorization
@@ -195,8 +148,106 @@ Tags:
 148. Pascal's Triangle; Binomial Coefficient; Lucas's Theorem
 149. Path Finding
 150. Path Finding; Dynamic Programming
-
-
+151. Dynamic Programming
+152. Search
+153. Gaussian Integer; Factorization
+154. Legendre Theorem
+155. 
+156. Search; Digit Counting
+157. Diophantine Equation
+158. Combinatoric
+159. Digital Root
+160. Chinese Remainder Theorem
+161. Dynamic Programming
+162. Combinatoric
+163. Divide and Conquer
+164. Dynamic programming; Digit Manipulation
+165. 
+166. Gauss-Jordan Elimination; Search
+167. Ulam Sequence
+168. 
+169. Stern-Brocot Tree
+170. Search
+171. Dynamic programming
+172. Partition Function; Digit Manipulation
+173. 
+174. 
+175. Calkin-Wilf Tree (Stern's Diatomic Series)
+176. Prime Factorization
+177. Quadrilateral
+178. Dynamic programming; Digit Manipulation
+179. Factor Sieve
+180. Fermat Last Theorem
+181. Combinatoric
+182. Decryption
+183. 
+184. Counting
+185. 
+186. Union-Find
+187. Prime Number
+188. Euler Theorem
+189. Combinatoric
+190. 
+191. Dynamic programming
+192. Continued Fraction
+193. Square-free Number; Mobius Function
+194. Combinatoric
+195. Calkin-Wilf Tree; Integer Triangle
+196. Prime Number
+197. 
+198. Farey sequence
+199. Descartes's Theorem
+200. 
+201. Dynamic Programming; Sequence and Subsets
+202. Mobius Function
+203. Binomial Coefficient; Square-free Number
+204. Hamming Numbers
+205. Probability
+206. 
+207. Search
+208. Dynamic Probability
+209. Combinatoric
+210. Counting
+211. Divisor Function
+212. Scan-line
+213. Probability
+214. Euler's Phi
+215. Dynamic Probability
+216. Quadratic Residue; Tonelli-Shanks Algorithm
+217. Dynamic Programming
+218. Pythagorean Triple
+219. Prefix Code; Dynamic Programming
+220. Heighway Dragon
+221. Diophantine Equation
+222. Sphere Packing
+223. Diophantine Equation; Search
+224. Diophantine Equation; Search
+225. 
+226. Blancmange Curve
+227. Absorbing Markov Chain
+228. Minkowski Addition
+229. Jacobi Symbol
+230. 
+231. Binomial Coefficient; Prime Factorization
+232. Dynamic Programming; Probability
+233. Sum-of-Squares Function; Prime Factorization
+234. 
+235. Binary search
+236. 
+237. Dynamic Programming
+238. 
+239. Dynamic Programming
+240. Combinatoric
+241. Divisor Function; Abundance
+242. Combinatoric; Binomial Coefficient; Lucas Theorem
+243. Euler's Phi
+244. Dynamic Programming
+245. Prime Factorization; Euler's Phi
+246. Calculus
+247. Calculus
+248. Prime Factorization; Euler's Phi
+249. Prime Number; Sequence and Subsets; Seiving
+250. Seiving
 
 
 
