@@ -246,11 +246,105 @@
 246. Calculus
 247. Calculus
 248. Prime Factorization; Euler's Phi
-249. Prime Number; Sequence and Subsets; Seiving
-250. Seiving
-
-
-
-
-
-
+249. Prime Number; Sequence and Subsets; Sieving
+250. Sieving
+251. Quadratic Irrational; Factorization
+252. 
+253. Dynamic Programming
+254. Digit Sum
+255. Search
+256. 
+257. Geometry
+258. Caylay-Hamilton Theorem; Convolution
+259. 
+260. Impartial Game; Sprague-Grundy Theorem
+261. Pell's Equation
+262. Search
+263. 
+264. Euler Line Theorem; Lattice Polygon
+265. Search
+266. 
+267. 
+268. Prime Factorization
+269. Polynomial; Horner's Method
+270. Lattice Polygon; Counting
+271. Chinese Remainder Theorem
+272. 
+273. Diophantine Equation; Cornacchia's Algorithm
+274. 
+275. 
+276. Integer Triangle
+277. Collatz Sequence
+278. Frobenius Problem; Diophantine Equation
+279. Integer Triangle
+280. Markov Chain
+281. Combinatoric
+282. Ackermann Function; Knuth's Up-arrow; Euler Theorem
+283. Integer Triangle
+284. Dynamic Programming
+285. Probability
+286. Dynamic Programming; Probability
+287. 
+288. Legendre Theorem
+289. Dynamic Programming
+290. Digit Sum; Dynamic Programming
+291. 
+292. Lattice Polygon
+293. 
+294. Digit Sum; Dynamic Programming
+295. 
+296. Geometry
+297. Zeckendorf's Theorem
+298. Dynamic Programming
+299. Geometry
+300. 
+301. Impartial Game; Sprague-Grundy Theorem
+302. Achilles Number; Prime Factorization
+303. Dynamic Programming
+304. Sieving
+305. 
+306. Dynamic Programming
+307. 
+308. Fractran
+309. Pythagorean Triple
+310. Impartial Game; Sprague-Grundy Theorem
+311. Quadrilateral
+312. 
+313. 
+314. 
+315. 
+316. 
+317. Calculus
+318. 
+319. Sequence and Subsets; Mobius Inversion
+320. Legendre Theorem
+321. Pell's Equation
+322. Binomial Coefficient; Lucas Theorem
+323. Absorbing Markov Chain
+324. Dynamic Programming
+325. Impartial Game; Sprague-Grundy Theorem; Beatty Sequence
+326. 
+327. 
+328. Search
+329. 
+330. Bell Number
+331. 
+332. Geometry
+333. 
+334. 
+335. 
+336. 
+337. Euler's Phi; Fenwick Tree
+338. Mobius Inversion
+339. Probability
+340. 
+341. Golomb Sequence
+342. Euler's Phi
+343. Sieving
+344. Impartial Game; Sprague-Grundy Theorem; Chinese Remainder Theorem
+345. Dynamic Programming
+346. Digit Manipulation
+347. Factor Sieve
+348. Palindromic Number
+349. 
+350. Prime Factorization; Inclusion–Exclusion Principle

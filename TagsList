@@ -1,19 +1,28 @@
 Tags:
+- Achilles Number: https://en.wikipedia.org/wiki/Achilles_number
+- Ackermann Function: https://en.wikipedia.org/wiki/Ackermann_function
 - Algebra
 - Absorbing Markov Chain: https://en.wikipedia.org/wiki/Absorbing_Markov_chain
 - Abundance: http://mathworld.wolfram.com/Abundance.html
 - Amicable Numbers: https://en.wikipedia.org/wiki/Amicable_numbers
 - Anagram
 - Arithmetic Expression
+- Beatty Sequence: https://en.wikipedia.org/wiki/Beatty_sequence
+- Bell Number: https://en.wikipedia.org/wiki/Bell_number
 - Binary search
 - Binomial Coefficient: https://en.wikipedia.org/wiki/Binomial_coefficient
 - Blancmange Curve: https://en.wikipedia.org/wiki/Blancmange_curve
 - Calculus
 - Calkin-Wilf Tree (Stern's Diatomic Series): https://en.wikipedia.org/wiki/Calkin–Wilf_tree
+- Caylay-Hamilton Theorem: https://en.wikipedia.org/wiki/Cayley%E2%80%93Hamilton_theorem
 - Champernowne: https://en.wikipedia.org/wiki/Champernowne_constant
 - Chinese Remainder Theorem: https://en.wikipedia.org/wiki/Chinese_remainder_theorem
+- Collatz Sequence: https://en.wikipedia.org/wiki/Collatz_conjecture
 - Combinatoric
 - Continued Fraction: https://en.wikipedia.org/wiki/Continued_fraction
+- Convolution: https://en.wikipedia.org/wiki/Convolution
+- Convolution Theorem: https://en.wikipedia.org/wiki/Convolution_theorem
+- Cornacchia's Algorithm: https://en.wikipedia.org/wiki/Cornacchia's_algorithm
 - Counting
 - Decryption
 - Descartes's Theorem: https://en.wikipedia.org/wiki/Descartes'_theorem
@@ -26,27 +35,38 @@ Tags:
 - Divisor Function: http://mathworld.wolfram.com/DivisorFunction.html
 - Dynamic Programming
 - Euler Theorem: https://en.wikipedia.org/wiki/Euler%27s_theorem
+- Euler Line Theorem: https://en.wikipedia.org/wiki/Euler_line
 - Euler's Phi: https://en.wikipedia.org/wiki/Euler%27s_totient_function
 - Factor Sieve
 - Factorization
 - Farey Sequences: https://en.wikipedia.org/wiki/Farey_sequence
+- Fenwick Tree: https://en.wikipedia.org/wiki/Fenwick_tree
 - Fermat Last Theorem: https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem
 - Fibonacci Number: https://en.wikipedia.org/wiki/Fibonacci_number
+- Fractran: https://en.wikipedia.org/wiki/FRACTRAN
+- Frobenius Problem: https://en.wikipedia.org/wiki/Coin_problem
 - Gauss-Jordan Elimination: https://en.wikipedia.org/wiki/Gaussian_elimination
 - Gaussian Integer
 - Geometry
+- Golomb Sequence: https://en.wikipedia.org/wiki/Golomb_sequence
 - Graph Theory
 - Hamming Numbers: https://en.wikipedia.org/wiki/Regular_number
 - Heighway Dragon: https://en.wikipedia.org/wiki/Dragon_curve
+- Horner's Method: https://en.wikipedia.org/wiki/Horner's_method
+- Impartial Game: https://en.wikipedia.org/wiki/Impartial_game
 - Inclusion–Exclusion Principle: https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle
 - Integer triangle: https://en.wikipedia.org/wiki/Integer_triangle
 - Jacobi Symbol: https://en.wikipedia.org/wiki/Jacobi_symbol
+- Knuth's Up-arrow: https://en.wikipedia.org/wiki/Knuth's_up-arrow_notation
 - Large Number Operation
+- Lattice Polygon
 - Legendre Theorem
 - Lucas's Theorem: https://en.wikipedia.org/wiki/Lucas%27s_theorem
 - Lychrel Number: https://en.wikipedia.org/wiki/Lychrel_number
+- Markov Chain: https://en.wikipedia.org/wiki/Markov_chain
 - Minkowski Addition: https://en.wikipedia.org/wiki/Minkowski_addition
 - Mobius Function: https://en.wikipedia.org/wiki/M%C3%B6bius_function
+- Mobius Inversion: https://en.wikipedia.org/wiki/M%C3%B6bius_inversion_formula
 - Modular Equation
 - Pandigital
 - Palindromic Number
@@ -54,7 +74,7 @@ Tags:
 - Partition Function: https://en.wikipedia.org/wiki/Partition_function_(number_theory)
 - Pascal's Triangle: https://en.wikipedia.org/wiki/Pascal%27s_triangle
 - Path Finding
-- Pell Equation
+- Pell's Equation: https://en.wikipedia.org/wiki/Pell%27s_equation
 - Prime Number
 - Prime Factorization
 - Prefix Code: https://en.wikipedia.org/wiki/Prefix_code
@@ -62,15 +82,17 @@ Tags:
 - Polynomial
 - Power Modular
 - Pythagorean Triple: http://mathworld.wolfram.com/PythagoreanTriple.html
+- Quadratic Irrational: https://en.wikipedia.org/wiki/Quadratic_irrational_number
 - Quadratic Residue: https://en.wikipedia.org/wiki/Quadratic_residue
 - Quadrilateral
 - Repunit
 - Roman Numerals
 - Scan-line: https://en.wikipedia.org/wiki/Scanline_rendering
 - Search
-- Seiving
+- Sieving
 - Sequence and Subsets
 - Sphere Packing: https://en.wikipedia.org/wiki/Sphere_packing
+- Sprague-Grundy Theorem: https://en.wikipedia.org/wiki/Sprague%E2%80%93Grundy_theorem
 - Square-free Number: https://en.wikipedia.org/wiki/Square-free_number
 - Stern-Brocot Tree: https://en.wikipedia.org/wiki/Stern%E2%80%93Brocot_tree
 - Sudoku
@@ -79,4 +101,5 @@ Tags:
 - Torricelli Point (Fermat Point): https://en.wikipedia.org/wiki/Fermat_point
 - Ulam Sequence: https://en.wikipedia.org/wiki/Ulam_number
 - Union Find: https://en.wikipedia.org/wiki/Disjoint-set_data_structure
+- Zeckendorf's Theorem: https://en.wikipedia.org/wiki/Zeckendorf%27s_theorem
 
